@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alex.
-- 👀 I’m interested in Software Development
+- 👋 Hey, I’m Alex.
+- 👀 Software Developer
 - 📫 How to reach me
   - Email: alex.alekseichuk@gmail.com
   - Telegram: `@kikudjiro`
