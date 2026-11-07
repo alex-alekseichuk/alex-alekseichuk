@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alex Alekseichuk
+# 👋 Hey, I'm Alex
 
 **Senior Software Developer · System Architect · Tech Lead**
 
