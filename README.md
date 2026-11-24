@@ -21,11 +21,11 @@
 
 ## Career highlights
 
-- **PearlX.com** · 2022 – 2024 — Lead Developer, DevOps
-- **Sygnum Bank** (Zurich) · 2021 – 2022 — Backend developer: node.js enterprise services, deploy & support in AWS (NestJS, Docker, Terraform)
+- **PearlX** · 2022 – 2024 — Architect, Lead Developer, DevOps
+- **Sygnum AG Bank** (Zurich) · 2021 – 2022 — Backend developer: node.js enterprise services, deploy & support in AWS (NestJS, Docker, Terraform)
 - **TYMLEZ** (Netherlands) · 2016 – 2021 — Lead Full-Stack Developer: js/ts full-stack solutions, code review, tech interviews; helped the company grow and go **public (IPO)**
-- **Plarium.com** · 2010 – 2015 — PM, Lead developer, Architect: design and implementation of high-load solutions for social games
-- **Arkadium.com** · 2007 – 2010 — Senior .NET developer: high-load web solutions (.NET, ASPX, MSSQL)
+- **Plarium.com** · 2010 – 2015 — PJM, Lead developer, Architect: design and implementation of high-load solutions for mid-core games in social networks.
+- **Arkadium.com** · 2007 – 2010 — Senior .NET developer: high-load web solutions for casual games (.NET, ASPX, MSSQL).
 - **YesSoftware.com** · 1999 – 2007 — Software Developer: Research and development Windows applications, Client-server solutions and Web Services.
 
 ## Selected achievements
