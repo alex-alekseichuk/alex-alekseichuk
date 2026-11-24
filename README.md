@@ -11,7 +11,7 @@
 ## What I bring to a team
 
 - **Architecture** — system design for high-load and large-scale systems: databases, caching, OLAP, Kubernetes, message queues (RabbitMQ), API design, DB migration & mirroring strategies
-- **Full-stack delivery** — C/C++, C# / .NET, Python, Go, TypeScript/JavaScript, PHP, Java, SQL; Node.js, NestJS, React, WebRTC, Django, FastAPI, Express
+- **Full-stack delivery** — C/C++, C#.NET, Python, Go, TypeScript/JavaScript, PHP, Java, SQL; Node.js, NestJS, React, WebRTC, Django, FastAPI, Express
 - **Cloud & DevOps** — CI/CD processes for container solutions, AWS cloud deployment & support, Docker, Terraform
 - **Performance & reliability** — performance tuning of high-load e-commerce, gaming, and analytics systems; O(n) data structures; scaling under real production load
 - **Security** — code obfuscation (VM + PE packer), security code reviews (found holes in production systems), anti-abuse NLP filters
@@ -21,12 +21,12 @@
 
 ## Career highlights
 
-- **BETBOOM** · 2024 – 2026 — major betting platform (1000–5000 employees)
-- **PearlX.com** · 2022 – 2024 — Senior Software Developer
+- **PearlX.com** · 2022 – 2024 — Lead Developer, DevOps
 - **Sygnum Bank** (Zurich) · 2021 – 2022 — Backend developer: node.js enterprise services, deploy & support in AWS (NestJS, Docker, Terraform)
-- **TYMLEZ** (Netherlands) · 2016 – 2021 — Senior Full-Stack Developer: js/ts full-stack solutions, code review, tech interviews; helped the company grow and go **public (IPO)**
-- **Plarium** · 2010 – 2015 — PM, Lead developer, Architect: design and implementation of high-load solutions for social games
-- **Arkadium** · 2007 – 2010 — Senior .NET developer: high-load web solutions (.NET, ASPX, MSSQL)
+- **TYMLEZ** (Netherlands) · 2016 – 2021 — Lead Full-Stack Developer: js/ts full-stack solutions, code review, tech interviews; helped the company grow and go **public (IPO)**
+- **Plarium.com** · 2010 – 2015 — PM, Lead developer, Architect: design and implementation of high-load solutions for social games
+- **Arkadium.com** · 2007 – 2010 — Senior .NET developer: high-load web solutions (.NET, ASPX, MSSQL)
+- **YesSoftware.com** · 1999 – 2007 — Software Developer: Research and development Windows applications, Client-server solutions and Web Services.
 
 ## Selected achievements
 
